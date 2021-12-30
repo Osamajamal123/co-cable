@@ -1,0 +1,77 @@
+.footerbackcolor{
+    background-color: #2c3449;
+    padding: 50px 0px 0px 10px
+}
+.footerbackcolor .footerflex{
+    display: flex;
+    justify-content: space-around;
+}
+.footerbackcolor .footerflex .footerone{
+
+}
+.footerbackcolor .footerflex .footerone ul li{
+    list-style: none;
+    text-decoration: none;
+    color: #0685D9;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.footerbackcolor .footerflex .footerone ul li:first-child{
+    padding-bottom: 24px;
+    font-weight: 600;
+}
+.footerbackcolor .footerflex .footerresponsive{
+    display: block;
+}
+.footerbackcolor .footerflex .footerresponsive ul li{
+    list-style: none;
+    text-decoration: none;
+    color: #0685D9;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+.footerbackcolor .footerflex .footerresponsive ul li:first-child{
+    padding-bottom: 24px;
+    font-weight: 600;
+}
+.footerbackcolor .footerflex .footericons{
+    display: flex;
+}
+.footerbackcolor .footerflex .footericons ul{
+    display: flex;
+}
+.footerbackcolor .footerflex .footericons ul li{
+    float: left;
+    border-radius: 100%;
+    border: 2px solid #0588DE;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+.footerbackcolor .footerflex .footericons ul li img{
+    width: 15px;
+}
+.footerbackcolor .footerdownflex{
+    display: flex;
+    justify-content: space-between;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul{
+display: flex;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul li{
+    list-style: none;
+    color: #717785;
+    padding-right: 20px;
+}
+.footerbackcolor .footerdownflex .rightsideDiv{
+    padding-right: 89px;
+}
+.footerbackcolor .footerdownflex .rightsideDiv img{
+    width: 140px;
+}
+
+
+

@@ -1,0 +1,3039 @@
+@media (max-width: 479px) and (min-width: 320px) {
+  .chartcenter{
+    display: none!important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup {
+    display: none !important;
+  }
+  .backgroundColor .fulldataflex {
+    display: flex !important;
+    padding: 4px 9px 0px 9px !important;
+    justify-content: space-between!important;
+  }
+  .background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend {
+    justify-content: flex-end!important;
+    margin-right: 17px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend{
+  justify-content: flex-end!important;
+  margin-right: 17px!important;
+}
+  .backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup {
+    display: flex!important;
+    justify-content: center!important;
+    width: 100%!important;
+    padding-left: 18px!important;
+}
+  .backgroundColor {
+    padding: inherit !important;
+    background:#39425a!important;
+  }
+  .footerbackcolor .footerflex .footericons {
+    justify-content: center!important;
+}
+  .backgroundColor .fulldataflex .fulldataleft h1 {
+    font-size: 19px !important;
+    padding-right: 10px !important;
+    padding-top: 16px !important;
+    font-family: 'Old Standard TT', serif!important;
+  }
+  
+  .footerbackcolor .footerflex .footericons ul li {
+    width: 27px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+  padding-left: 0px!important;
+}
+  .backgroundColor .fulldataflex .fulldataleft img {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .sctearrowflex {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft {
+    display: flex !important;
+    align-items: center !important;
+    padding-right: 13px !important;
+  }
+  .backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:first-child {
+    width: 97px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:last-child {
+  width: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol {
+  padding-left: 20px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth {
+    width: 49px!important;
+    align-items: center!important;
+    height: 100%!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth img {
+    width: 28px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h1 {
+    font-size: 18px!important;
+    margin-top: 9px!important;
+    font-weight: 400!important;
+    padding-left: 21px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte {
+    margin-top: 53px!important;
+    margin-left: -20px!important;
+    padding-right: 3px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h4 {
+    margin-bottom: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor {
+    margin-left: -53px!important;
+    margin-top: 52px!important;
+    background: #39425a!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul {
+    padding-left: 0px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul li {
+    padding: 1px 5px!important;
+    margin: 5px!important;
+    font-size: 12px!important;
+    color: #fff!important;
+    opacity: 0.8!important;
+    font-weight: lighter!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+    padding: 10px 0px 14px 15px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+    justify-content: normal!important;
+    padding-left: 3px!important;
+    font-size: 12px!important;
+    font-weight: 500!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.mob-arrow-up img{
+  width: 24px;
+    padding-top: 14px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree p {
+  margin: 0px!important;
+  padding-bottom: 8px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: none!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-downarrow img {
+  width: 13px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex {
+  margin-top: 6px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots {
+  padding-top: 9px!important;
+}
+.greencourseback img {
+  width: 17px!important;
+  padding-top: 5px!important;
+  padding-right: 17px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2) {
+  font-size: 7px!important;
+  padding-right: 25px!important;
+}
+.greencourseabsolute {
+  /* position: absolute; */
+  background-color: #2DBF16;
+  width: 100%;
+  margin-top: -6px!important;
+  display: block;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup p{
+  color: white;
+  margin: 0px;
+  padding: 10px;
+}
+.greencourseback {
+  padding: 17px 0px 17px 0px!important;
+  justify-content: space-between!important;
+}
+.greencourseback h6 {
+  padding-left: 17px!important;
+}
+.displaydiv{
+  display: block!important;
+}
+.background-color-Div {
+  padding: 0px!important;
+}
+div#zingchart-react-1 {
+  height: 537px!important;
+  width: 747%!important;
+  overflow: hidden!important;
+  margin: -166px 0px 0px 63px!important
+}
+.background-color-Div .back-color .leftsideDiv .leftdownimg {
+  padding-bottom: 70px!important;
+}
+.chartthree {
+  background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+  border-radius: 108%!important;
+  display: flex;
+  flex-direction: row;
+  margin-right: 49px!important;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60px!important;
+  margin-bottom: 24px;
+  padding: 59px 60px 60px 60px!important;
+}
+.chartthree h1{
+  
+  color: #455169;
+  margin: 0;
+  font-size: 92px;
+  font-weight: bold;
+
+}
+.carouselnone{
+  display: block!important;
+  background: #39425a!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  display: none!important;
+}
+.background-color-Div .back-color .flexDotts .dottsone {
+  display: none!important;
+  background: #39425a!important;
+}
+.linechartnone{
+  display: block!important;
+  }
+  .linedivarrow{
+    display: flex!important;
+    justify-content: flex-end!important;
+    width: 100%!important;
+  }
+  .linechartnone .linedotsflex .linedivarrow img:first-child{
+    width: 16px!important;
+    padding-left: 295px!important;
+    display: block!important;
+    }
+.linechartnone .linedotsflex {
+  padding: 0px 15px 0px 15px!important;
+}
+.linechartnone .dataflexend2 .dataupone2 h3 {
+  padding-left: 15px!important;
+  margin-top: 0px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul {
+  padding-left: 15px!important;
+}
+div#zingchart-react-3 {
+  height: 303px!important;
+  width: 100%!important;
+  overflow: hidden!important;
+}
+.linechartnone .linebackimg {
+  background-image: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat!important;
+    /* background-size: cover; */
+    background-size: 211% 240%!important;
+    background-position: 69% 0%!important;
+   
+}
+.leftsideDiv h3{
+display: none!important;
+}
+.background-color-Div .back-color .bothsideDiv {
+  display: flex;
+  flex-direction: column-reverse!important;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+  }
+  .background-color-Div .back-color .rightsideDiv {
+    width: 100%!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 78%!important;
+  padding: 30px 20px 20px 19px!important;
+  margin-left: 19px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: block!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex {
+  padding: 16px 0px 0px 17px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .wifitxt p {
+  color: #ADB0B9!important;
+  font-size: 20px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts .wifidotscol {
+  background: #ADB0B9!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex {
+  padding: 40px 19px 15px 18px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yourcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .similarcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .purpleDot {
+  display: none!important;
+ }
+ .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yellowDot {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .blueDot {
+ display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h5 {
+  padding-right: 0px!important;
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h4 {
+  font-size: 10px!important;
+}
+.monthsDivflex2 {
+  padding-top: 1px!important;
+  background: #3d4760!important;
+  font-size: 12px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 22px!important;
+  color: #727a8e!important;
+  margin-left: 14px!important;
+  margin-top: 0px!important;
+  text-align: start!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv {
+  padding-top: 0px!important;
+  display: flex;
+  justify-content: space-between;
+}
+.bigtextdiv .bitextarrow {
+display: block!important;
+}
+.bigtextdiv .bitextarrow img{
+width: 12px;
+padding-right: 12px;
+padding-top: 3px;
+}
+.justifyCenter {
+  width: 100%!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.background-color-Div .back-color .bothsideDiv .leftsideDiv {
+  width: 100%!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 17px!important;
+  margin-top: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  color: #727a8e!important;
+  font-size: 22px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 14px!important;
+  padding: 30px 25px 70px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+  margin-bottom: 10px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 291px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+  margin-top: -10px!important;
+  margin-bottom: 10px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 291px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+  margin-top: -10px!important;
+}
+.footerbackcolor .footerflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerflex .footerone {
+  display: none!important;
+}
+.footerbackcolor .footerflex .footerresponsive{
+  display: block!important;
+  text-align: center!important;
+}
+.footerbackcolor .footerflex .footerresponsive ul{
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  flex-direction: column!important;
+  text-align: center!important;
+    padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .rightsideDiv {
+  padding-right: 0px!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.arrowdownhide{
+  display: flex!important;
+  justify-content: flex-end!important;
+}
+}
+@media (max-width: 1199px) and (min-width: 1024px) {
+  .backgroundColor {
+    padding: 0px 0px 0 0px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone h1 {
+  font-size: 30px!important;
+  padding-right: 13px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone img {
+  height: 47px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+  width: 0px!important;
+  font-size: 13px!important;
+  padding-top: 15px!important;
+  padding-left: 0px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo .active {
+  padding: 6px 1px!important;
+  border-top: 2px solid #f5a623!important;
+  border-bottom: 2px solid #f5a623!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+  padding-top: 0px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+  justify-content: space-between!important;
+  padding: 31px 41px 0 41px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup button {
+ 
+  font-size: 10px!important;
+  padding: 7px 9px 7px 9px!important;
+  margin-top: 18px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+  padding-right: 0px!important;
+  /* margin-left: -29px!important; */
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup ul li {
+  padding: 3px 0px!important;
+  margin-right: 5px!important;
+  font-size: 10px;
+  font-size: 10px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup p {
+  margin-top: 54px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul li:nth-child(2) {
+  border-top: 2px solid transparent!important;
+  border-bottom: 2px solid transparent!important;
+  transition: 1s!important;
+  padding: 6px 6px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul li:nth-child(3) {
+  border-top: 2px solid transparent!important;
+  border-bottom: 2px solid transparent!important;
+  transition: 1s!important;
+  padding: 6px 6px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup img {
+  width: 119px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup p {
+  font-size: 17px!important;
+  margin-top: 50px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    z-index: 14!important;
+    margin-top: -23px!important;
+    height: 189px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne {
+  padding-top: 59px!important;
+  padding-left: 4px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h6 {
+  font-size: 10px!important;
+  padding-top: 0px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 sup:first-child {
+  top: -17px!important;
+  font-size: 21px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 span {
+  font-size: 28px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 sup:last-child {
+  top: -19px!important;
+  font-size: 21px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv .extra{
+  font-size: 16px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 {
+  padding-right: 16px!important;
+  margin-right: -33px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo {
+  padding-top: 59px!important;
+  padding-left: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h6 {
+  font-size: 10px!important;
+  margin-top: -14px!important;
+  margin-left: 5px!important;
+  padding-top: 6px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -7px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex .dotsDivmain {
+  margin-left: 10px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 span {
+  font-size: 28px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 sup:last-child {
+  top: -13px!important;
+  font-size: 24px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 sup:first-child {
+  top: -11px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 {
+  margin: -19px 0px 0px 38px!important;
+  padding-right: 28px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex img {
+  top: -15px!important;
+  right: 16px!important;
+  font-size: 13px!important;
+}
+.background-color-Div {
+  padding: 0px 0px 0 0px!important;
+}
+
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 h5 span {
+  font-size: 32px!important;
+  padding-left: 13px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 .extra{
+  font-size: 15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 sup {
+  top: -14px!important;
+  right: 14px!important;
+  font-size: 25px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .bottomdataDiv2 p {
+  font-size: 8px!important;
+  margin: 0px 0px 0px 6px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .bottomdataDiv2 img {
+  width: 15px!important;
+  height: 15px!important;
+  margin-right: -12px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 .extra {
+  font-size: 13px!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.chartcenter {
+  display: block!important;
+}
+.doubledotflex2{
+  display: flex!important;
+}
+.firstdottts2{
+  display: flex;
+  padding-left: 97px;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex .firstDot .firstdottts {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 30px!important;
+  margin-bottom: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  font-size: 36px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 16px!important;
+  padding: 17px 1px 54px 21px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 317px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend {
+  justify-content: flex-end!important;
+  margin-top: -20px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend {
+  justify-content: flex-end!important;
+  margin-top: -14px!important;
+  margin-right: -10px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 16px!important;
+  padding: 17px 9px 64px 20px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 289px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 28px!important;
+  margin-top: 36px!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 38%!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 16px!important;
+  padding: 17px 1px 54px 21px!important;
+}
+.footerbackcolor .footerflex .footerresponsive {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 291px!important;
+  margin-right: -13px!important;
+  margin-top: 12px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 16px!important;
+  padding: 17px 8px 64px 19px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 296px!important;
+  margin-left: 12px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 16px!important;
+  padding: 17px 11px 58px 19px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 281px!important;
+  margin-left: 32px!important;
+}
+.firstdottts2 .leftdots2{
+  background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.chartcenter .chartupflex2 {
+  padding: 24px 0px 0px 29px!important;
+  justify-content: center!important;
+}
+div#zingchart-react-5 {
+  height: 381px!important;
+  width: 60%!important;
+}
+.chartcenter .chartupflex2 .charttwo2 {
+  margin: -175px 0px 0px 0px!important;
+}
+.leftsideDiv h3{
+display: none;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+}
+.datadowndot h3{
+  display: none!important;
+  font-size: 15px!important;
+}
+.chartcenter .chartdownflex2 .chartthree3 {
+  margin-left: -13px!important;
+  margin-right: 51px!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  padding-left: 111px!important;
+  padding-top: 13px!important;
+}
+.chartcenter h3 {
+    color: white;
+    padding-left: 95px;
+}
+.background-color-Div .back-color .flexDotts {
+  padding: 30px 112px 0px 87px!important;
+}
+.chartcenter .chartdownflex2 {
+  padding: 0px 192px 0px 0px!important;
+  justify-content: center!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative .blockoneonClick .courseperformancedowndata .dataonecourse p:first-child {
+  font-size: 10px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative .blockoneonClick .courseperformancedowndata .dataonecourse p:last-child {
+  font-size: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificateperiodflex p:last-child {
+  font-size: 15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv h5 span {
+  font-size: 32px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv .extra{
+  font-size: 15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv sup {
+  top: -18px!important;
+  right: 14px!important;
+  font-size: 25px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .bottomdataDiv p {
+  font-size: 8px!important;
+padding-left: 4px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .bottomdataDiv img {
+    width: 15px!important;
+    height: 15px!important;
+    margin-right: -28px!important;
+ } 
+ .backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive {
+  padding: 51px 0px 0px 29px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 span {
+  font-size: 27px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 .extra{
+  font-size: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 sup:first-child {
+  top: -11px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 sup:last-child {
+  top: -19px!important;
+  right: 14px!important;
+  font-size: 23px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .dottsimgflex img {
+  right: 5px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 {
+  margin-right: -36px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 h5 {
+  margin: -17px 0px 0px 0px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 h5 span {
+  font-size: 33px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 .extra{
+  font-size: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h6 {
+  margin-top: -11px!important;
+  font-size: 13px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .bottomdataDiv5 p {
+  font-size: 8px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .bottomdataDiv5 img {
+  height: 15px!important;
+  margin-right: -15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 sup {
+  top: -10px!important;
+  font-size: 24px!important;
+}
+.crosscrossflex p:first-child {
+  font-size: 14px!important;
+}
+.boxfivedowndata p:last-child {
+  font-size: 16px!important;
+}
+.footerbackcolor .footerflex {
+  display: flex;
+  justify-content: space-around!important;
+}
+.footerbackcolor .footerflex .footerone{
+  margin-right: 10px!important;
+}
+.footerbackcolor .footerflex .footerone ul {
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+padding-left: 1px!important;
+}
+.footerbackcolor .footerflex .footericons ul li {
+  width: 22px!important;
+  height: 29px!important;
+  margin-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  font-size: 10px!important;
+  padding-left: 2px!important;
+}
+.linechart3{
+  display: block!important;
+}
+.linechart3 .dataflexend3 .dataupone3 h3{
+  color: white;
+  margin-top: 10px;
+  padding-left: 30px;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul{
+list-style: none;
+color: white;
+display: flex;
+padding-left: 30px;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li{
+  padding-right: 8px;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li:nth-child(1){
+  color: #627091;
+  font-weight: 700;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li:nth-child(2){
+  color: #EBA026;
+  font-weight: 700;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li:nth-child(3){
+  color: #048BE2;
+  font-weight: 700;
+}
+.linebackimg3{
+background-image: url(data:image/jpeg;base64,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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/2Q==);
+    background-repeat: no-repeat;
+    margin-bottom: -45px;
+    background-size: 116% 122%;
+    background-position: 0px 8%;
+}
+.carouselDotsflex {
+  display: flex;
+  padding-left: 33px;
+}
+.carouselDotsflex .carouseldots {
+  background: #fff;
+  padding: 3px 3px;
+  border-radius: 30px;
+  margin: 1px;
+}
+ } 
+@media (max-width: 1023px) and (min-width: 992px) {
+  .backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup {
+    display: none !important;
+  }
+  .backgroundColor .fulldataflex {
+    display: flex !important;
+    padding: 4px 9px 0px 9px !important;
+  }
+  .backgroundColor {
+    padding: inherit !important;
+    background:#39425a!important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft h1 {
+    font-size: 19px !important;
+    padding-right: 10px !important;
+    padding-top: 16px !important;
+    font-family: 'Old Standard TT', serif!important;
+  }
+  
+  .footerbackcolor .footerflex .footericons ul li {
+    width: 27px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+  padding-left: 0px!important;
+}
+  .backgroundColor .fulldataflex .fulldataleft img {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .sctearrowflex {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft {
+    display: flex !important;
+    align-items: center !important;
+    padding-right: 13px !important;
+  }
+  .backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:first-child {
+    width: 97px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:last-child {
+  width: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol {
+  padding-left: 20px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth {
+    width: 49px!important;
+    align-items: center!important;
+    height: 100%!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth img {
+    width: 28px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h1 {
+    font-size: 18px!important;
+    margin-top: 9px!important;
+    font-weight: 400!important;
+    padding-left: 21px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte {
+    margin-top: 53px!important;
+    margin-left: -20px!important;
+    padding-right: 3px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h4 {
+    margin-bottom: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor {
+    margin-left: -53px!important;
+    margin-top: 52px!important;
+    background: #39425a!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul {
+    padding-left: 0px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul li {
+    padding: 1px 5px!important;
+    margin: 5px!important;
+    font-size: 12px!important;
+    color: #fff!important;
+    opacity: 0.8!important;
+    font-weight: lighter!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+    padding: 10px 0px 14px 15px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+    justify-content: normal!important;
+    padding-left: 3px!important;
+    font-size: 12px!important;
+    font-weight: 500!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.mob-arrow-up img{
+  width: 24px;
+    padding-top: 14px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree p {
+  margin: 0px!important;
+  padding-bottom: 8px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: none!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-downarrow img {
+  width: 13px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex {
+  margin-top: 6px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots {
+  padding-top: 9px!important;
+}
+.greencourseback img {
+  width: 17px!important;
+  padding-top: 5px!important;
+  padding-right: 17px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2) {
+  font-size: 7px!important;
+  padding-right: 25px!important;
+}
+.greencourseabsolute {
+  /* position: absolute; */
+  background-color: #2DBF16;
+  width: 100%;
+  margin-top: -6px!important;
+  display: block;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup p{
+  color: white;
+  margin: 0px;
+  padding: 10px;
+}
+.greencourseback {
+  padding: 17px 0px 17px 0px!important;
+  justify-content: space-between!important;
+}
+.greencourseback h6 {
+  padding-left: 17px!important;
+}
+.displaydiv{
+  display: block!important;
+}
+.background-color-Div {
+  padding: 0px!important;
+}
+div#zingchart-react-1 {
+  height: 407px!important;
+  width: 1650px!important;
+  overflow: hidden!important;
+  margin: -166px 0px 0px 63px!important
+}
+.background-color-Div .back-color .leftsideDiv .leftdownimg {
+  padding-bottom: 70px!important;
+}
+.chartthree {
+  background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+  border-radius: 108%!important;
+  display: flex;
+  flex-direction: row;
+  margin-right: 49px!important;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60px!important;
+  margin-bottom: 24px;
+  padding: 59px 60px 60px 60px!important;
+}
+.chartthree h1{
+  
+  color: #455169;
+  margin: 0;
+  font-size: 92px;
+  font-weight: bold;
+
+}
+.carouselnone{
+  display: block!important;
+  background: #39425a!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  display: none!important;
+}
+.background-color-Div .back-color .flexDotts .dottsone {
+  display: none!important;
+  background: #39425a!important;
+}
+.linechartnone{
+  display: block!important;
+  }
+  .linedivarrow{
+    display: flex!important;
+    justify-content: flex-end!important;
+    width: 100%!important;
+  }
+  .linechartnone .linedotsflex .linedivarrow img:first-child{
+    width: 20px!important;
+    padding-left: 310px!important;
+    display: block!important;
+    }
+.linechartnone .linedotsflex {
+  padding: 0px 15px 0px 15px!important;
+}
+.linechartnone .dataflexend2 .dataupone2 h3 {
+  padding-left: 15px!important;
+  margin-top: 0px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul {
+  padding-left: 15px!important;
+}
+div#zingchart-react-3 {
+  height: 303px!important;
+  width: 100%!important;
+  overflow: hidden!important;
+}
+.linechartnone .linebackimg {
+  background-image: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat!important;
+    /* background-size: cover; */
+    background-size: 211% 240%!important;
+    background-position: 69% 0%!important;
+   
+}
+.leftsideDiv h3{
+display: none!important;
+}
+.background-color-Div .back-color .bothsideDiv {
+  display: flex;
+  flex-direction: column-reverse!important;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+  }
+  .background-color-Div .back-color .rightsideDiv {
+    width: 100%!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 78%!important;
+  padding: 30px 20px 20px 19px!important;
+  margin-left: 19px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: block!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex {
+  padding: 16px 0px 0px 17px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .wifitxt p {
+  color: #ADB0B9!important;
+  font-size: 20px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts .wifidotscol {
+  background: #ADB0B9!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex {
+  padding: 40px 19px 15px 18px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yourcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .similarcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .purpleDot {
+  display: none!important;
+ }
+ .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yellowDot {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .blueDot {
+ display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h5 {
+  padding-right: 0px!important;
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h4 {
+  font-size: 10px!important;
+}
+.monthsDivflex2 {
+  padding-top: 1px!important;
+  background: #3d4760!important;
+  font-size: 12px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 22px!important;
+  color: #727a8e!important;
+  margin-left: 14px!important;
+  margin-top: 0px!important;
+  text-align: start!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv {
+  padding-top: 0px!important;
+  display: flex;
+  justify-content: space-between;
+}
+.bigtextdiv .bitextarrow {
+display: block!important;
+}
+.bigtextdiv .bitextarrow img{
+width: 12px;
+padding-right: 12px;
+padding-top: 3px;
+}
+.justifyCenter {
+  width: 100%!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.background-color-Div .back-color .bothsideDiv .leftsideDiv {
+  width: 100%!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 17px!important;
+  margin-top: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  color: #727a8e!important;
+  font-size: 22px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 14px!important;
+  padding: 30px 25px 70px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 291px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 291px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+}
+.footerbackcolor .footerflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerflex .footerone {
+  display: none!important;
+}
+.footerbackcolor .footerflex .footerresponsive{
+  display: block!important;
+  text-align: center!important;
+}
+.footerbackcolor .footerflex .footerresponsive ul{
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  flex-direction: column!important;
+  text-align: center!important;
+    padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .rightsideDiv {
+  padding-right: 0px!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.arrowdownhide{
+  display: flex!important;
+  justify-content: flex-end!important;
+}
+ }
+ @media (max-width: 991px) and (min-width: 768px) { 
+  .backgroundColor {
+    padding: 0px 0px 0 0px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone h1 {
+  font-size: 30px!important;
+  padding-right: 13px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone img {
+  height: 47px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+  width: 0px!important;
+  font-size: 13px!important;
+  padding-top: 15px!important;
+  padding-left: 0px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo .active {
+  padding: 6px 1px!important;
+  border-top: 2px solid #f5a623!important;
+  border-bottom: 2px solid #f5a623!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+  padding-top: 0px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+  justify-content: space-between!important;
+  padding: 31px 41px 0 41px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup button {
+ 
+  font-size: 10px!important;
+  padding: 7px 9px 7px 9px!important;
+  margin-top: 18px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+  padding-right: 0px!important;
+  /* margin-left: -29px!important; */
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup ul li {
+  padding: 3px 0px!important;
+  margin-right: 5px!important;
+  font-size: 10px;
+  font-size: 10px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup p {
+  margin-top: 54px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul li:nth-child(2) {
+  border-top: 2px solid transparent!important;
+  border-bottom: 2px solid transparent!important;
+  transition: 1s!important;
+  padding: 6px 6px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul li:nth-child(3) {
+  border-top: 2px solid transparent!important;
+  border-bottom: 2px solid transparent!important;
+  transition: 1s!important;
+  padding: 6px 6px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup img {
+  width: 119px!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup p {
+  font-size: 17px!important;
+  margin-top: 50px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    z-index: 14!important;
+    margin-top: -23px!important;
+    height: 189px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne {
+  padding-top: 59px!important;
+  padding-left: 4px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h6 {
+  font-size: 10px!important;
+  padding-top: 0px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 sup:first-child {
+  top: -17px!important;
+  font-size: 21px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 span {
+  font-size: 28px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 sup:last-child {
+  top: -19px!important;
+  font-size: 21px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv .extra{
+  font-size: 16px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 {
+  padding-right: 16px!important;
+  margin-right: -33px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo {
+  padding-top: 59px!important;
+  padding-left: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h6 {
+  font-size: 10px!important;
+  margin-top: -14px!important;
+  margin-left: 5px!important;
+  padding-top: 6px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -7px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex .dotsDivmain {
+  margin-left: 10px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 span {
+  font-size: 28px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 sup:last-child {
+  top: -13px!important;
+  font-size: 24px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 sup:first-child {
+  top: -11px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 {
+  margin: -19px 0px 0px 38px!important;
+  padding-right: 28px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex img {
+  top: -15px!important;
+  right: 16px!important;
+  font-size: 13px!important;
+}
+.background-color-Div {
+  padding: 0px 0px 0 0px!important;
+}
+
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 h5 span {
+  font-size: 32px!important;
+  padding-left: 13px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 .extra{
+  font-size: 15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 sup {
+  top: -14px!important;
+  right: 14px!important;
+  font-size: 25px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .bottomdataDiv2 p {
+  font-size: 8px!important;
+  margin: 0px 0px 0px 6px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .bottomdataDiv2 img {
+  width: 15px!important;
+  height: 15px!important;
+  margin-right: -12px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 .extra {
+  font-size: 13px!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.chartcenter {
+  display: block!important;
+}
+.doubledotflex2{
+  display: flex!important;
+}
+.firstdottts2{
+  display: flex;
+  padding-left: 97px;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex .firstDot .firstdottts {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 30px!important;
+  margin-bottom: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  font-size: 36px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 16px!important;
+  padding: 17px 1px 54px 21px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 317px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend {
+  justify-content: flex-end!important;
+  margin-top: -20px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend {
+  justify-content: flex-end!important;
+  margin-top: -14px!important;
+  margin-right: -10px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 16px!important;
+  padding: 17px 9px 64px 20px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 415px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 28px!important;
+  margin-top: 36px!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 38%!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 16px!important;
+  padding: 17px 1px 54px 21px!important;
+}
+.footerbackcolor .footerflex .footerresponsive {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 291px!important;
+  margin-right: -13px!important;
+  margin-top: 12px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 16px!important;
+  padding: 17px 8px 64px 19px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 296px!important;
+  margin-left: 12px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 16px!important;
+  padding: 17px 11px 58px 19px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 281px!important;
+  margin-left: 32px!important;
+}
+.firstdottts2 .leftdots2{
+  background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.chartcenter .chartupflex2 {
+  padding: 24px 0px 0px 29px!important;
+  justify-content: center!important;
+}
+div#zingchart-react-5 {
+  height: 381px!important;
+  width: 87%!important;
+}
+.chartcenter .chartupflex2 .charttwo2 {
+  margin: -175px 0px 0px 0px!important;
+}
+.leftsideDiv h3{
+display: none;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+}
+.datadowndot h3{
+  display: none!important;
+  font-size: 15px!important;
+}
+.chartcenter .chartdownflex2 .chartthree3 {
+  margin-left: -13px!important;
+  margin-right: 51px!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  padding-left: 111px!important;
+  padding-top: 13px!important;
+}
+.chartcenter h3 {
+    color: white;
+    padding-left: 95px;
+}
+.background-color-Div .back-color .flexDotts {
+  padding: 30px 112px 0px 87px!important;
+}
+.chartcenter .chartdownflex2 {
+  padding: 0px 65px 0px 0px!important;
+  justify-content: center!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative .blockoneonClick .courseperformancedowndata .dataonecourse p:first-child {
+  font-size: 10px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative .blockoneonClick .courseperformancedowndata .dataonecourse p:last-child {
+  font-size: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificateperiodflex p:last-child {
+  font-size: 15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv h5 span {
+  font-size: 32px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv .extra{
+  font-size: 15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv sup {
+  top: -18px!important;
+  right: 14px!important;
+  font-size: 25px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .bottomdataDiv p {
+  font-size: 8px!important;
+padding-left: 4px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .bottomdataDiv img {
+    width: 15px!important;
+    height: 15px!important;
+    margin-right: -28px!important;
+ } 
+ .backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive {
+  padding: 51px 0px 0px 29px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 span {
+  font-size: 27px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 .extra{
+  font-size: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 sup:first-child {
+  top: -11px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 sup:last-child {
+  top: -19px!important;
+  right: 14px!important;
+  font-size: 23px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .dottsimgflex img {
+  right: 5px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 {
+  margin-right: -36px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 h5 {
+  margin: -17px 0px 0px 0px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 h5 span {
+  font-size: 33px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 .extra{
+  font-size: 14px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h6 {
+  margin-top: -11px!important;
+  font-size: 13px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .bottomdataDiv5 p {
+  font-size: 8px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .bottomdataDiv5 img {
+  height: 15px!important;
+  margin-right: -15px!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 sup {
+  top: -10px!important;
+  font-size: 24px!important;
+}
+.crosscrossflex p:first-child {
+  font-size: 14px!important;
+}
+.boxfivedowndata p:last-child {
+  font-size: 16px!important;
+}
+.footerbackcolor .footerflex {
+  display: flex;
+  justify-content: inherit!important;
+}
+.footerbackcolor .footerflex .footerone{
+  margin-right: 10px!important;
+}
+.footerbackcolor .footerflex .footerone ul {
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+padding-left: 1px!important;
+}
+.footerbackcolor .footerflex .footericons ul li {
+  width: 22px!important;
+  height: 29px!important;
+  margin-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  font-size: 10px!important;
+  padding-left: 2px!important;
+}
+.linechart3{
+  display: block!important;
+}
+.linechart3 .dataflexend3 .dataupone3 h3{
+  color: white;
+  margin-top: 10px;
+  padding-left: 30px;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul{
+list-style: none;
+color: white;
+display: flex;
+padding-left: 30px;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li{
+  padding-right: 8px;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li:nth-child(1){
+  color: #627091;
+  font-weight: 700;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li:nth-child(2){
+  color: #EBA026;
+  font-weight: 700;
+}
+.linechart3 .dataflexend3 .mixdataLis3 ul li:nth-child(3){
+  color: #048BE2;
+  font-weight: 700;
+}
+.linebackimg3{
+background-image: url(data:image/jpeg;base64,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AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/2Q==);
+    background-repeat: no-repeat;
+    margin-bottom: -45px;
+    background-size: 116% 122%;
+    background-position: 0px 8%;
+}
+.carouselDotsflex {
+  display: flex;
+  padding-left: 33px;
+}
+.carouselDotsflex .carouseldots {
+  background: #fff;
+  padding: 3px 3px;
+  border-radius: 30px;
+  margin: 1px;
+}
+}
+@media (max-width: 767px) and (min-width: 685px) {
+  .backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup {
+    display: none !important;
+  }
+  .backgroundColor .fulldataflex {
+    display: flex !important;
+    padding: 4px 9px 0px 9px !important;
+    justify-content: space-between!important;
+  }
+  .backgroundColor {
+    padding: inherit !important;
+    background:#39425a!important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft h1 {
+    font-size: 19px !important;
+    padding-right: 10px !important;
+    padding-top: 16px !important;
+    font-family: 'Old Standard TT', serif!important;
+  }
+  .footerbackcolor .footerflex .footericons {
+    display: flex!important;
+    justify-content: center!important;
+}
+  .footerbackcolor .footerflex .footericons ul li {
+    width: 27px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+  padding-left: 0px!important;
+}
+  .backgroundColor .fulldataflex .fulldataleft img {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .sctearrowflex {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+    margin-left: -251px!important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft {
+    display: flex !important;
+    align-items: center !important;
+    padding-right: 13px !important;
+  }
+  .backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:first-child {
+    width: 97px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:last-child {
+  width: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol {
+  padding-left: 20px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth {
+    width: 49px!important;
+    align-items: center!important;
+    height: 100%!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth img {
+    width: 28px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h1 {
+    font-size: 18px!important;
+    margin-top: 9px!important;
+    font-weight: 400!important;
+    padding-left: 21px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte {
+    margin-top: 53px!important;
+    margin-left: -276px!important;
+    padding-right: 3px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h4 {
+    margin-bottom: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor {
+    margin-left: -53px!important;
+    margin-top: 52px!important;
+    background: #39425a!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul {
+    padding-left: 0px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul li {
+    padding: 1px 5px!important;
+    margin: 5px!important;
+    font-size: 12px!important;
+    color: #fff!important;
+    opacity: 0.8!important;
+    font-weight: lighter!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+    padding: 10px 0px 14px 15px!important;
+    justify-content: center!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+    justify-content: normal!important;
+    padding-left: 3px!important;
+    font-size: 12px!important;
+    font-weight: 500!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.mob-arrow-up img{
+  width: 24px;
+    padding-top: 14px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree p {
+  margin: 0px!important;
+  padding-bottom: 8px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: none!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-downarrow img {
+  width: 13px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex {
+  margin-top: 6px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots {
+  padding-top: 9px!important;
+}
+.greencourseback img {
+  width: 17px!important;
+  padding-top: 5px!important;
+  padding-right: 150px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2) {
+  font-size: 7px!important;
+  padding-right: 25px!important;
+}
+.greencourseabsolute {
+  /* position: absolute; */
+  background-color: #2DBF16;
+  width: 100%;
+  margin-top: -6px!important;
+  display: block;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup p{
+  color: white;
+  margin: 0px;
+  padding: 10px;
+}
+.greencourseback {
+  padding: 17px 0px 17px 0px!important;
+  justify-content: space-between!important;
+}
+.greencourseback h6 {
+  padding-left: 150px!important;
+}
+.displaydiv{
+  display: block!important;
+}
+.background-color-Div {
+  padding: 0px!important;
+}
+div#zingchart-react-1 {
+  height: 407px!important;
+  width: 1650px!important;
+  overflow: hidden!important;
+  margin: -166px 0px 0px 63px!important
+}
+.background-color-Div .back-color .leftsideDiv .leftdownimg {
+  padding-bottom: 70px!important;
+}
+.chartthree {
+  background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+  border-radius: 108%!important;
+  display: flex;
+  flex-direction: row;
+  margin-right: 49px!important;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60px!important;
+  margin-bottom: 24px;
+  padding: 59px 60px 60px 60px!important;
+}
+.chartthree h1{
+  
+  color: #455169;
+  margin: 0;
+  font-size: 92px;
+  font-weight: bold;
+
+}
+.carouselnone{
+  display: block!important;
+  background: #39425a!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  display: none!important;
+}
+.background-color-Div .back-color .flexDotts .dottsone {
+  display: none!important;
+  background: #39425a!important;
+}
+.linechartnone{
+  display: block!important;
+  }
+  .linedivarrow{
+    display: flex!important;
+    justify-content: flex-end!important;
+    width: 100%!important;
+  }
+  .linechartnone .linedotsflex .linedivarrow img:first-child{
+    width: 20px!important;
+    padding-left: 310px!important;
+    display: block!important;
+    }
+.linechartnone .linedotsflex {
+  padding: 0px 15px 0px 15px!important;
+}
+.linechartnone .dataflexend2 .dataupone2 h3 {
+  padding-left: 15px!important;
+  margin-top: 0px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul {
+  padding-left: 15px!important;
+}
+div#zingchart-react-3 {
+  height: 303px!important;
+  width: 100%!important;
+  overflow: hidden!important;
+}
+.linechartnone .linebackimg {
+  background-image: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat!important;
+    /* background-size: cover; */
+    background-size: 211% 240%!important;
+    background-position: 69% 0%!important;
+   
+}
+.leftsideDiv h3{
+display: none!important;
+}
+.background-color-Div .back-color .bothsideDiv {
+  display: flex;
+  flex-direction: column-reverse!important;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+  }
+  .background-color-Div .back-color .rightsideDiv {
+    width: 100%!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 89%!important;
+  padding: 30px 20px 20px 19px!important;
+  margin-left: 16px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: block!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex {
+  padding: 16px 0px 0px 17px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .wifitxt p {
+  color: #ADB0B9!important;
+  font-size: 20px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts .wifidotscol {
+  background: #ADB0B9!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex {
+  padding: 40px 19px 15px 18px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yourcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .similarcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .purpleDot {
+  display: none!important;
+ }
+ .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yellowDot {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .blueDot {
+ display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h5 {
+  padding-right: 0px!important;
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h4 {
+  font-size: 10px!important;
+}
+.monthsDivflex2 {
+  padding-top: 1px!important;
+  background: #3d4760!important;
+  font-size: 12px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 22px!important;
+  color: #727a8e!important;
+  margin-left: 14px!important;
+  margin-top: 0px!important;
+  text-align: start!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv {
+  padding-top: 0px!important;
+  display: flex;
+  justify-content: space-between;
+}
+.bigtextdiv .bitextarrow {
+display: block!important;
+}
+.bigtextdiv .bitextarrow img{
+width: 12px;
+padding-right: 12px;
+padding-top: 3px;
+}
+.justifyCenter {
+  width: 100%!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.background-color-Div .back-color .bothsideDiv .leftsideDiv {
+  width: 100%!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 17px!important;
+  margin-top: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  color: #727a8e!important;
+  font-size: 22px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 14px!important;
+  padding: 28px 25px 64px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 403px!important;
+  margin-left: 153px!important;
+  margin-bottom: 21px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 14px!important;
+  padding: 28px 25px 64px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 403px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 403px!important;
+  margin-left: 153px!important;
+  margin-bottom: 21px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 14px!important;
+  padding: 28px 25px 64px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 403px!important;
+ 
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 14px!important;
+  padding: 28px 25px 64px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 14px!important;
+  padding: 28px 25px 64px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 403px!important;
+  margin-left: 153px!important;
+  margin-bottom: 21px!important;
+}
+.footerbackcolor .footerflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerflex .footerone {
+  display: none!important;
+}
+.footerbackcolor .footerflex .footerresponsive{
+  display: block!important;
+  text-align: center!important;
+}
+.footerbackcolor .footerflex .footerresponsive ul{
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  flex-direction: column!important;
+  text-align: center!important;
+    padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .rightsideDiv {
+  padding-right: 0px!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.arrowdownhide{
+  display: flex!important;
+  justify-content: flex-end!important;
+}
+ } 
+@media (max-width: 684px) and (min-width: 568px) { 
+  .backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup {
+    display: none !important;
+  }
+  .backgroundColor .fulldataflex {
+    display: flex !important;
+    padding: 4px 9px 0px 9px !important;
+    justify-content: space-between;
+  }
+  .backgroundColor {
+    padding: inherit !important;
+    background:#39425a!important;
+  }
+  
+  .backgroundColor .fulldataflex .fulldataleft h1 {
+    font-size: 19px !important;
+    padding-right: 10px !important;
+    padding-top: 16px !important;
+    font-family: 'Old Standard TT', serif!important;
+  }
+  
+  .footerbackcolor .footerflex .footericons ul li {
+    width: 27px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+  padding-left: 0px!important;
+
+}
+  .backgroundColor .fulldataflex .fulldataleft img {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .sctearrowflex {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+    margin-left: -177px!important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft {
+    display: flex !important;
+    align-items: center !important;
+    padding-right: 13px !important;
+  }
+  .backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:first-child {
+    width: 97px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:last-child {
+  width: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol {
+  padding-left: 20px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth {
+    width: 49px!important;
+    align-items: center!important;
+    height: 100%!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth img {
+    width: 28px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h1 {
+    font-size: 18px!important;
+    margin-top: 9px!important;
+    font-weight: 400!important;
+    padding-left: 21px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte {
+    margin-top: 53px!important;
+    margin-left: -201px!important;
+    padding-right: 3px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h4 {
+    margin-bottom: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor {
+    margin-left: -53px!important;
+    margin-top: 52px!important;
+    background: #39425a!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul {
+    padding-left: 0px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul li {
+    padding: 1px 5px!important;
+    margin: 5px!important;
+    font-size: 12px!important;
+    color: #fff!important;
+    opacity: 0.8!important;
+    font-weight: lighter!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+    padding: 10px 0px 14px 15px!important;
+    width: 100%!important;
+    justify-content: center!important;
+}
+.chartcenter {
+  display: none!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+    justify-content: normal!important;
+    padding-left: 3px!important;
+    font-size: 12px!important;
+    font-weight: 500!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.mob-arrow-up img{
+  width: 24px;
+    padding-top: 14px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree p {
+  margin: 0px!important;
+  padding-bottom: 8px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: none!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-downarrow img {
+  width: 13px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex {
+  margin-top: 6px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots {
+  padding-top: 9px!important;
+}
+.greencourseback img {
+  width: 17px!important;
+  padding-top: 5px!important;
+  padding-right: 62px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2) {
+  font-size: 7px!important;
+  padding-right: 25px!important;
+}
+.greencourseabsolute {
+  /* position: absolute; */
+  background-color: #2DBF16;
+  width: 100%;
+  margin-top: -6px!important;
+  display: block;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup p{
+  color: white;
+  margin: 0px;
+  padding: 10px;
+}
+.greencourseback {
+  padding: 17px 0px 17px 0px!important;
+  justify-content: space-between!important;
+}
+.greencourseback h6 {
+  padding-left: 62px!important;
+}
+.displaydiv{
+  display: block!important;
+}
+.background-color-Div {
+  padding: 0px!important;
+}
+div#zingchart-react-1 {
+  height: 407px!important;
+  width: 1650px!important;
+  overflow: hidden!important;
+  margin: -166px 0px 0px 63px!important
+}
+.background-color-Div .back-color .leftsideDiv .leftdownimg {
+  padding-bottom: 70px!important;
+}
+div#zingchart-react-1 {
+  height: 484px!important;
+  width: 100%!important;
+  overflow: hidden!important;
+}
+.chartthree {
+  background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+  border-radius: 108%!important;
+  display: flex;
+  flex-direction: row;
+  margin-right: 152px!important;
+  justify-content: center;
+  align-items: center;
+  margin-left: 152px!important;
+  margin-bottom: 24px;
+  padding: 59px 60px 60px 60px!important;
+}
+.chartthree h1{
+  
+  color: #455169;
+  margin: 0;
+  font-size: 92px;
+  font-weight: bold;
+
+}
+.carouselnone{
+  display: block!important;
+  background: #39425a!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  display: none!important;
+}
+.background-color-Div .back-color .flexDotts .dottsone {
+  display: none!important;
+  background: #39425a!important;
+}
+.linechartnone{
+  display: block!important;
+  }
+  .linedivarrow{
+    display: flex!important;
+    justify-content: flex-end!important;
+    width: 100%!important;
+  }
+  .linechartnone .linedotsflex .linedivarrow img:first-child{
+    width: 20px!important;
+    padding-left: 310px!important;
+    display: block!important;
+    }
+.linechartnone .linedotsflex {
+  padding: 0px 15px 0px 15px!important;
+}
+.linechartnone .dataflexend2 .dataupone2 h3 {
+  padding-left: 15px!important;
+  margin-top: 0px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul {
+  padding-left: 15px!important;
+}
+div#zingchart-react-3 {
+  height: 303px!important;
+  width: 100%!important;
+  overflow: hidden!important;
+}
+.linechartnone .linebackimg {
+  background-image: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat!important;
+    /* background-size: cover; */
+    background-size: 211% 240%!important;
+    background-position: 69% 0%!important;
+   
+}
+.leftsideDiv h3{
+display: none!important;
+}
+.background-color-Div .back-color .bothsideDiv {
+  display: flex;
+  flex-direction: column-reverse!important;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+  }
+  .background-color-Div .back-color .rightsideDiv {
+    width: 100%!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 85%!important;
+  padding: 30px 20px 20px 19px!important;
+  margin-left: 17px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend {
+  justify-content: flex-end!important;
+  margin-right: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend {
+  justify-content: flex-end!important;
+  margin-right: 15px!important;
+}
+.footerbackcolor .footerflex .footericons {
+  justify-content: center!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: block!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex {
+  padding: 16px 0px 0px 17px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .wifitxt p {
+  color: #ADB0B9!important;
+  font-size: 20px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts .wifidotscol {
+  background: #ADB0B9!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex {
+  padding: 40px 19px 15px 18px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yourcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .similarcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .purpleDot {
+  display: none!important;
+ }
+ .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yellowDot {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .blueDot {
+ display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h5 {
+  padding-right: 0px!important;
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h4 {
+  font-size: 10px!important;
+}
+.monthsDivflex2 {
+  padding-top: 1px!important;
+  background: #3d4760!important;
+  font-size: 12px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 22px!important;
+  color: #727a8e!important;
+  margin-left: 14px!important;
+  margin-top: 0px!important;
+  text-align: start!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv {
+  padding-top: 0px!important;
+  display: flex;
+  justify-content: space-between;
+}
+.bigtextdiv .bitextarrow {
+display: block!important;
+}
+.bigtextdiv .bitextarrow img{
+width: 12px;
+padding-right: 12px;
+padding-top: 3px;
+}
+.justifyCenter {
+  width: 100%!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.background-color-Div .back-color .bothsideDiv .leftsideDiv {
+  width: 100%!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 17px!important;
+  margin-top: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  color: #727a8e!important;
+  font-size: 22px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 14px!important;
+  padding: 30px 25px 70px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 291px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 291px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 14px!important;
+  padding: 30px 25px 58px 25px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 291px!important;
+  margin-left: 15px!important;
+}
+.footerbackcolor .footerflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerflex .footerone {
+  display: none!important;
+}
+.footerbackcolor .footerflex .footerresponsive{
+  display: block!important;
+  text-align: center!important;
+}
+.footerbackcolor .footerflex .footerresponsive ul{
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  flex-direction: column!important;
+  text-align: center!important;
+    padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .rightsideDiv {
+  padding-right: 0px!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.arrowdownhide{
+  display: flex!important;
+  justify-content: flex-end!important;
+}
+} 
+@media (max-width: 567px) and (min-width: 480px) { 
+  .backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+    display: none !important;
+  }
+  .backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup {
+    display: none !important;
+  }
+  .backgroundColor .fulldataflex {
+    display: flex !important;
+    padding: 4px 15px 2px 15px !important;
+    justify-content: space-between!important;
+  }
+  .backgroundColor {
+    padding: inherit !important;
+    background:#39425a!important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft h1 {
+    font-size: 19px !important;
+    padding-right: 10px !important;
+    padding-top: 16px !important;
+    font-family: 'Old Standard TT', serif!important;
+  }
+  .footerbackcolor .footerflex .footericons ul li {
+    width: 27px!important;
+}
+.footerbackcolor .footerflex .footericons ul {
+  padding-left: 0px!important;
+}
+  .backgroundColor .fulldataflex .fulldataleft img {
+    width: 30px !important;
+    height: 30px !important;
+  }
+  .sctearrowflex {
+    display: flex !important;
+    align-items: center !important;
+    height: 100% !important;
+    padding-right: 178px!important;
+  }
+  .backgroundColor .fulldataflex .fulldataleft {
+    display: flex !important;
+    align-items: center !important;
+    padding-right: 13px !important;
+  }
+  .backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:first-child {
+    width: 97px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:last-child {
+  width: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol {
+  padding-left: 20px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth {
+    width: 49px!important;
+    align-items: center!important;
+    height: 100%!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth img {
+    width: 28px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h1 {
+    font-size: 18px!important;
+    margin-top: 9px!important;
+    font-weight: 400!important;
+    padding-left: 21px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte {
+    margin-top: 53px!important;
+    margin-left: -20px!important;
+    padding-right: 3px!important;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h4 {
+    margin-bottom: 14px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor {
+    margin-left: -53px!important;
+    margin-top: 52px!important;
+    background: #39425a!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul {
+    padding-left: 0px!important;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerdowncolor ul li {
+    padding: 1px 5px!important;
+    margin: 5px!important;
+    font-size: 12px!important;
+    color: #fff!important;
+    opacity: 0.8!important;
+    font-weight: lighter!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+    padding: 10px 0px 14px 15px!important;
+    display: flex!important;
+    justify-content: space-between!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup {
+  justify-content: center!important;
+  width: 100%!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo {
+  display: flex!important;
+  justify-content: center!important;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+    justify-content: normal!important;
+    padding-left: 3px!important;
+    font-size: 15px!important;
+    font-weight: 500!important;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+    display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart {
+  display: none!important;
+}
+.mob-arrow-up img{
+  width: 24px;
+    padding-top: 14px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree p {
+  margin: 0px!important;
+  padding-bottom: 8px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: none!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-downarrow img {
+  width: 13px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex {
+  margin-top: 6px!important;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots {
+  padding-top: 9px!important;
+}
+.greencourseback img {
+  width: 17px!important;
+  padding-top: 5px!important;
+  padding-right: 68px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2) {
+  font-size: 7px!important;
+  padding-right: 25px!important;
+}
+.greencourseabsolute {
+  /* position: absolute; */
+  background-color: #2DBF16;
+  width: 100%;
+  margin-top: -6px!important;
+  display: block;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup p{
+  color: white;
+  margin: 0px;
+  padding: 10px;
+}
+.greencourseback {
+  padding: 17px 0px 17px 0px!important;
+  justify-content: space-between!important;
+}
+.greencourseback h6 {
+  padding-left: 68px!important;
+}
+.displaydiv{
+  display: block!important;
+}
+.background-color-Div {
+  padding: 0px!important;
+}
+div#zingchart-react-1 {
+  height: 407px!important;
+  width: 1650px!important;
+  overflow: hidden!important;
+  margin: -166px 0px 0px 63px!important
+}
+.background-color-Div .back-color .leftsideDiv .leftdownimg {
+  padding-bottom: 70px!important;
+}
+.chartthree {
+  background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+  border-radius: 108%!important;
+  display: flex;
+  flex-direction: row;
+     margin-right: 94px!important;
+  justify-content: center;
+  align-items: center;
+  margin-left: 102px!important;
+  margin-bottom: 24px;
+  padding: 59px 56px 58px 73px!important;
+}
+.chartthree h1{
+  
+  color: #455169;
+  margin: 0;
+  font-size: 92px;
+  font-weight: bold;
+
+}
+.carouselnone{
+  display: block!important;
+  background: #39425a!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .chartdownflex {
+  display: none!important;
+}
+.background-color-Div .back-color .leftsideDiv .doubledotflex {
+  display: none!important;
+}
+.background-color-Div .back-color .flexDotts .dottsone {
+  display: none!important;
+  background: #39425a!important;
+}
+.linechartnone{
+  display: block!important;
+  }
+  .linedivarrow{
+    display: flex!important;
+    justify-content: flex-end!important;
+    width: 100%!important;
+  }
+  .linechartnone .linedotsflex .linedivarrow img:first-child{
+    width: 20px!important;
+    padding-left: 310px!important;
+    display: block!important;
+    }
+.linechartnone .linedotsflex {
+  padding: 0px 15px 0px 15px!important;
+}
+.linechartnone .dataflexend2 .dataupone2 h3 {
+  padding-left: 15px!important;
+  margin-top: 0px!important;
+  font-size: 20px!important;
+  color: white!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(1){
+  font-size: 13px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2){
+  font-size: 13px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(3){
+  font-size: 13px!important;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul {
+  padding-left: 15px!important;
+}
+div#zingchart-react-3 {
+  height: 303px!important;
+  width: 100%!important;
+  overflow: hidden!important;
+}
+.linechartnone .linebackimg {
+  background-image: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat!important;
+    /* background-size: cover; */
+    background-size: 211% 240%!important;
+    background-position: 69% 0%!important;
+   
+}
+.leftsideDiv h3{
+display: none!important;
+}
+.background-color-Div .back-color .bothsideDiv {
+  display: flex;
+  flex-direction: column-reverse!important;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex {
+  display: none!important;
+  }
+  .background-color-Div .back-color .rightsideDiv {
+    width: 100%!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick {
+  width: 78%!important;
+  padding: 30px 20px 20px 19px!important;
+  margin-left: 19px!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span {
+  display: block!important;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex {
+  padding: 16px 0px 0px 17px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .wifitxt p {
+  color: #ADB0B9!important;
+  font-size: 20px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts .wifidotscol {
+  background: #ADB0B9!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex {
+  padding: 40px 19px 15px 18px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yourcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .similarcompany {
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .purpleDot {
+  display: none!important;
+ }
+ .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yellowDot {
+  display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .blueDot {
+ display: none!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h5 {
+  padding-right: 0px!important;
+  font-size: 10px!important;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h4 {
+  font-size: 10px!important;
+}
+.monthsDivflex2 {
+  padding-top: 1px!important;
+  background: #3d4760!important;
+  font-size: 12px!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1 {
+  font-size: 22px!important;
+  color: #727a8e!important;
+  margin-left: 14px!important;
+  margin-top: 0px!important;
+  text-align: start!important;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv {
+  padding-top: 0px!important;
+  display: flex;
+  justify-content: space-between;
+}
+.bigtextdiv .bitextarrow {
+display: block!important;
+}
+.bigtextdiv .bitextarrow img{
+width: 12px;
+padding-right: 12px;
+padding-top: 3px;
+}
+.justifyCenter {
+  width: 100%!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.background-color-Div .back-color .bothsideDiv .leftsideDiv {
+  width: 100%!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv {
+  margin-left: 17px!important;
+  margin-top: 0px!important;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1 {
+  color: #727a8e!important;
+  font-size: 22px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p {
+  font-size: 14px!important;
+  padding: 36px 52px 70px 39px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne {
+  max-width: 332px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo p {
+  font-size: 14px!important;
+  padding: 36px 52px 70px 39px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend .cardtwo {
+  max-width: 332px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree {
+  max-width: 332px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p {
+  font-size: 14px!important;
+  padding: 36px 52px 70px 39px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour {
+  max-width: 332px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend .cardfour p {
+  font-size: 14px!important;
+  padding: 36px 52px 70px 39px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p {
+  font-size: 14px!important;
+  padding: 36px 52px 70px 39px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive {
+  max-width: 332px!important;
+  margin-left: 15px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardtwoend{
+  justify-content: flex-end!important;
+  margin-right: 16px!important;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfourend {
+  justify-content: flex-end!important;
+  margin-right: 18px!important;
+}
+.footerbackcolor .footerflex .footerresponsive ul li {
+  font-size: 16px!important;
+}
+.footerbackcolor .footerflex .footericons {
+  justify-content: center!important;
+}
+.footerbackcolor .footerflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerflex .footerone {
+  display: none!important;
+}
+.footerbackcolor .footerflex .footerresponsive{
+  display: block!important;
+  text-align: center!important;
+}
+.footerbackcolor .footerflex .footerresponsive ul{
+  padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex {
+  flex-direction: column!important;
+}
+.footerbackcolor .footerdownflex .leftsidedown ul {
+  flex-direction: column!important;
+  text-align: center!important;
+    padding-left: 0px!important;
+}
+.footerbackcolor .footerdownflex .rightsideDiv {
+  padding-right: 0px!important;
+  display: flex!important;
+  justify-content: center!important;
+}
+.arrowdownhide{
+  display: flex!important;
+  justify-content: flex-end!important;
+}
+}

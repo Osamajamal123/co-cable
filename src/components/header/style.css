@@ -1,0 +1,817 @@
+.STANDARD-serif-family {
+  font-family: "Old Standard TT", serif;
+}
+.roboto-sanserif-family {
+  font-family: "Roboto", sans-serif;
+}
+.backgroundColor {
+  padding: 40px 40px 0 40px;
+  background: #444e68;
+}
+.backgroundColor .headBackgroundImg {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    linear-gradient(223deg, rgba(96, 105, 126, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../assets/images/polycable_header.png") no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder {
+  display: flex;
+  justify-content: space-between;
+  padding: 31px 41px 0 41px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup {
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone {
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone h1 {
+  margin-top: 0px;
+  color: #fff;
+  font-size: 57px;
+  font-family: "Old Standard TT", serif;
+  font-weight: 500;
+  padding-right: 18px;
+  padding-top: 7px;
+  margin: 0px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sideone img {
+  height: 80px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo {
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul {
+  display: flex;
+  justify-content: space-between;
+  width: 347px;
+  padding-left: 7px;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  margin: 0px;
+  padding-top: 12px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo ul li {
+  color: #fff;
+  opacity: 0.9;
+  list-style: none;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .L-sideup .L-sidetwo .active {
+  border-top: 3px solid #f5a623;
+  border-bottom: 3px solid #f5a623;
+  padding: 6px 16px;
+  /* margin-right: 5px; */
+  margin-right: 5px;
+}
+.backgroundColor
+  .headBackgroundImg
+  .D-flexhaeder
+  .L-sideup
+  .L-sidetwo
+  ul
+  li:nth-child(2) {
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  transition: 1s;
+  padding: 6px 16px;
+}
+.backgroundColor
+  .headBackgroundImg
+  .D-flexhaeder
+  .L-sideup
+  .L-sidetwo
+  ul
+  li:nth-child(2):hover {
+  border-top: 3px solid #34c9ba;
+  border-bottom: 3px solid #34c9ba;
+}
+.backgroundColor
+  .headBackgroundImg
+  .D-flexhaeder
+  .L-sideup
+  .L-sidetwo
+  ul
+  li:nth-child(3) {
+  border-top: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+  transition: 1s;
+  padding: 6px 16px;
+}
+.backgroundColor
+  .headBackgroundImg
+  .D-flexhaeder
+  .L-sideup
+  .L-sidetwo
+  ul
+  li:nth-child(3):hover {
+  border-top: 3px solid #d10cf9;
+  border-bottom: 3px solid #d10cf9;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup {
+  display: flex;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup button {
+  color: #fff;
+  border-radius: 40px;
+  background-color: #323b52;
+  font-size: 16px;
+  margin: 0px;
+  padding: 12px 23px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border: 0px;
+  margin-top: 17px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup ul {
+  display: flex;
+  padding-left: 11px;
+  padding-top: 3px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .C-sideup ul li {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  padding: 4px 10px;
+  margin: 5px;
+  color: #b3a9a9;
+  font-size: 11px;
+  text-decoration: none;
+  font-size: 16px;
+  list-style: none;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup {
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup img {
+  width: 140px;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup p {
+  color: #c8c9ce;
+  margin-bottom: 0;
+  font-size: 21px;
+  margin-top: 57px;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  text-align: right;
+}
+.backgroundColor .headBackgroundImg .D-flexhaeder .R-sideup h4 {
+  text-align: right;
+  color: #e8a12b;
+  margin-top: 2px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.backgroundColor .headBackgroundImg .secondBackimg {
+  background-image: url(../../assets/images/all.svg);
+  background-size: cover;
+  /* position: relative; */
+  /* z-index: 14; */
+  background-position: center;
+  /* margin-top: -50px; */
+  height: 345px;
+}
+/* blockone */
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes{
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne {
+  width: 20%;
+    padding-top: 130px;
+    padding-left: 10px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .dotspopflex{
+display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne  .dotspopflex .popupblockrelative{
+position: relative;
+width: 100%;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne  .dotspopflex .dotsDivmain {
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne  .dotspopflex .popupblockrelative .popupblock{
+  position: absolute;
+  background-color: rgba(37, 45, 62, 0.9);
+  width: 84%;
+  z-index: 2;
+  padding: 7px;
+  margin: -39px 0px 0px -23px;
+  padding: 14px 19px 14px 16px;
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .dotspopflex .popupblockrelative .popupblock p:first-child{
+  color: #fff;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .dotspopflex .popupblockrelative .popupblock p:last-child{
+  color: #f8304f;
+  margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .dotspopflex .dotsDivmain .dotsDiv {
+  background: #fff;
+  padding: 3px 3px;
+  border-radius: 30px;
+  margin: 1px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h6{
+  color: #f9f9f9;
+  font-size: 17px;
+  margin-top: 6px;
+  margin-bottom: 0px;
+  opacity: 0.7;
+  padding-top: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0px;
+  padding-top: 6px;
+  padding-right: 28px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 sup:first-child{
+  position: relative;
+  top: -26px;
+  font-size: 38px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 span{
+  font-size: 60px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv .extra{
+font-size: 20px;
+
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .datanumberDiv h5 sup:last-child{
+  top: -26px;
+  right: 14px;
+  font-size: 33px;
+  position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv h5{
+  padding-left: 0px;
+  opacity: 0.5;
+  font-weight: lighter;
+  color: white;
+  margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv h5 span{
+  font-size: 60px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv .extra{
+  font-size: 20px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .mixdataDiv sup{
+  top: -27px;
+    right: 14px;
+    font-size: 33px;
+    position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne  .bottomdataDiv{
+display: flex;
+justify-content: space-between;
+padding-right: 24px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne  .bottomdataDiv p{
+  color: #fff;
+    font-size: 11px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    margin: 0px;
+    padding-top: 6px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne  .bottomdataDiv img{
+  width: 15px;
+  height: 17px;
+}
+/* /////////////////// */
+
+/* secondbox */
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo {
+  width: 20%;
+  padding-top: 130px;
+  padding-left: 15px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative{
+  width: 100%;
+  position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick{
+  background-color: rgba(247, 0, 101, 0.9); 
+  z-index: 2;
+  position: absolute;
+  width: 100%;
+  margin-top: -71px;
+  padding: 0px 5px 0px 2px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificateperiodflex{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificateperiodflex p:first-child{
+  font-size: 12px;
+    color: #fff;
+    margin-top: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificateperiodflex p:last-child{
+  font-size: 29px;
+    color: #fff;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .boxtwoul{
+
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .boxtwoul ul{
+padding-left: 0px;
+padding-top: 14px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .boxtwoul ul li{
+  list-style: none;
+  color: #fff;
+  padding-bottom: 17px;
+  font-size: 14px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .dottsimgflex .popupblockrelative2{
+  position: relative;
+  width: 100%;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .dottsimgflex .popupblockrelative2 .popupblock2{
+  position: absolute;
+  background-color: rgba(37, 45, 62, 0.9);
+  width: 84%;
+  z-index: 2;
+  padding: 7px;
+  margin: -39px 0px 0px -23px;
+  padding: 14px 22px 13px 22px;
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .dottsimgflex .popupblockrelative2 .popupblock2 p:first-child{
+  color: #fff;
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 14px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .dottsimgflex .popupblockrelative2 .popupblock2 p:last-child{
+  color: #f8304f;
+  margin: 0px;
+  margin-right: -8px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificatecrossflex{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificatecrossflex p:first-child{
+  color: #fff;
+    font-size: 17px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    opacity: 0.7;
+    padding-top: 0;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .blocktworelative .blocktwodownonclick .certificatecrossflex p:last-child{
+margin: 0px;
+color: white;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .dottsimgflex{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex .dotsDivmain {
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex .dotsDivmain .dotsDiv {
+  background: #fff;
+  padding: 3px 3px;
+  border-radius: 30px;
+  margin: 1px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .dottsimgflex img {
+  width: 17px;
+    position: relative;
+    top: -3px;
+    right: 27px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h6{
+  color: #f9f9f9;
+  font-size: 17px;
+  margin-top: -7px;
+  margin-bottom: 0px;
+  opacity: 0.7;
+  padding-top: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0px;
+  padding-right: 28px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 sup:first-child{
+  position: relative;
+  top: -26px;
+  font-size: 38px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 span{
+  font-size: 60px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 .extra{
+font-size: 20px;
+
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .datanumberDiv2 h5 sup:last-child{
+  top: -26px;
+  right: 14px;
+  font-size: 33px;
+  position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 h5{
+  padding-left: 0px;
+  opacity: 0.5;
+  font-weight: lighter;
+  color: white;
+  margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 h5 span{
+  font-size: 60px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 .extra{
+  font-size: 20px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo .mixdataDiv2 sup{
+  top: -27px;
+    right: 14px;
+    font-size: 33px;
+    position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .bottomdataDiv2{
+display: flex;
+justify-content: space-between;
+padding-right: 24px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .bottomdataDiv2 p{
+  color: #fff;
+    font-size: 11px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blocktwo  .bottomdataDiv2 img{
+  width: 15px;
+  height: 17px;
+}
+/* fifthbox */
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive {
+  width: 20%;
+  padding: 101px 0px 0px 29px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .dottsimgflex{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .dottsimgflex .dotsDivmain {
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .dottsimgflex .dotsDivmain .dotsDiv {
+  background: #fff;
+  padding: 3px 3px;
+  border-radius: 30px;
+  margin: 1px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .dottsimgflex img {
+  width: 17px;
+    position: relative;
+    top: -3px;
+    right: 27px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h6{
+  color: #f9f9f9;
+  font-size: 17px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  opacity: 0.7;
+  padding-top: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5{
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  margin: 0px;
+  padding-right: 28px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 sup:first-child{
+  position: relative;
+  top: -26px;
+  font-size: 38px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 span{
+  font-size: 60px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 .extra{
+font-size: 20px;
+
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .datanumberDiv5 h5 sup:last-child{
+  top: -26px;
+  right: 14px;
+  font-size: 33px;
+  position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 h5{
+  padding-left: 0px;
+  opacity: 0.5;
+  font-weight: lighter;
+  color: white;
+  margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 h5 span{
+  font-size: 60px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 .extra{
+  font-size: 20px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive .mixdataDiv5 sup{
+  top: -27px;
+    right: 14px;
+    font-size: 33px;
+    position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .bottomdataDiv5{
+display: flex;
+justify-content: space-between;
+padding-right: 24px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .bottomdataDiv5 p{
+  color: #fff;
+    font-size: 11px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .bottomdataDiv5 img{
+  width: 15px;
+  height: 17px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick{
+  width: 100%;
+  position: absolute;
+  background-color: rgba(45, 191, 22, 0.9);
+  z-index: 2;
+  margin-top: -70px;
+  
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .blockoneonClickcross{
+  display: flex;
+  justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .blockoneonClickcross p:first-child{
+  color: #fff;
+    font-size: 17px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    opacity: 0.7;
+    padding-top: 0;
+    
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .blockoneonClickcross p:last-child{
+  color: white;
+  padding-right: 7px;
+  margin: 0px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative{
+  width: 100%;
+  position: relative;
+  
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .courseperformancedowndata{
+display: flex;
+flex-direction: column;
+display: flex;
+    flex-direction: column;
+    padding: 10px 8px
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .courseperformancedowndata .dataonecourse{
+display: flex;
+justify-content: space-between;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .courseperformancedowndata .dataonecourse p:first-child{
+  font-size: 12px;
+    color: #fff;
+    margin-top: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .courseperformancedowndata .dataonecourse p:last-child{
+  font-size: 29px;
+    color: #fff;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockOne .blockonerelative  .blockoneonClick .courseperformancedowndata .dataonecourse p{
+  margin: 0px;
+  padding: 5px 0px 6px 0px ;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .dottsimgflex .popupblockrelative5{
+  width: 100%;
+  position: relative;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .dottsimgflex .popupblockrelative5 .popupblock5{
+  position: absolute;
+  background-color: rgba(37, 45, 62, 0.9);
+  width: 84%;
+  z-index: 2;
+  padding: 7px;
+  margin: -39px 0px 0px -23px;
+  padding: 14px 19px 14px 16px;
+  display: flex;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .dottsimgflex .popupblockrelative5 .popupblock5 p:first-child{
+  color: #fff;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.backgroundColor .headBackgroundImg .secondBackimg .flexBoxes .blockfive  .dottsimgflex .popupblockrelative5 .popupblock5 p:last-child{
+  color: #f8304f;
+  margin: 0px;
+}
+ .boxfiverelative{
+width: 100%;
+position: relative;
+}
+ .boxfiveabsolute{
+  width: 100%;
+  position: absolute;
+  z-index: 2;
+  /* background: green; */
+  background-color: rgba(254, 172, 44, 0.9);
+  margin-top: -60px;
+}
+ .crosscrossflex{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 2px;
+}
+ .crosscrossflex p:first-child{
+  font-size: 15px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+.crosscrossflex p:last-child{
+  font-size: 14px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+.boxfivedowndata{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 14px;
+}
+.boxfivedowndata p:first-child{
+  font-size: 12px;
+  color: #fff;
+  margin-top: 17px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  display: flex;
+    align-items: center;
+}
+.boxfivedowndata p:last-child{
+  font-size: 29px;
+  color: #fff;
+  margin: 0px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+}
+.boxfiveul{
+
+}
+.boxfiveul ul {
+  padding-left: 0px;
+}
+.boxfiveul ul li{
+  font-size: 12px;
+  font-family: Roboto, sens-serif;
+  list-style: none;
+  color: #fff;
+  padding: 5px 0px 20px 0px;
+}
+/* responsive */
+.backgroundColor .fulldataflex{
+display: none;
+
+}
+.backgroundColor .fulldataflex .fulldataleft{
+display: flex;
+}
+.backgroundColor .fulldataflex .fulldataleft h1{
+  margin-top: 0px;
+    color: #fff;
+    font-size: 57px;
+    padding-right: 15px;
+    font-family: 'Old Standard TT', serif;
+}
+.backgroundColor .fulldataflex .fulldataleft img{
+  height: 80px;
+}
+.backgroundColor .fulldataflex .sctearrowcol{
+display: flex;
+flex-direction: column;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:first-child{
+  width: 140px;
+}
+.backgroundColor .fulldataflex .sctearrowcol .sctearrowflex img:last-child{
+  width: 21px;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte{
+  background: #444e68;
+  position: absolute;
+  z-index: 2;
+  margin-top: 25px;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h1{
+  color: #c8c9ce;
+  margin-bottom: 0;
+  font-size: 21px;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  text-align: right;
+}
+.backgroundColor .fulldataflex .sctearrowcol .backcolorscte h4{
+  text-align: right;
+    color: #e8a12b;
+    margin-top: 2px;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+.backgroundColor .fulldataflex .hamburgercol{
+display: flex;
+flex-direction: column;
+padding-left: 60px;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth{
+  display: flex;
+    justify-content: flex-end;
+    width: 156px;
+}
+.backgroundColor .fulldataflex .hamburgercol .hamburgerwidtth img{
+  width: 23px;
+}
+.backgroundColor .fulldataflex .hamburgercol  .hamburgerdowncolor{
+  background: #444e68;
+  position: absolute;
+  z-index: 2;
+  margin-top: 25px;
+}
+.backgroundColor .fulldataflex .hamburgercol  .hamburgerdowncolor ul li{
+  list-style: none;
+  padding: 4px 10px;
+    margin: 5px;
+    color: #b3a9a9;
+    font-size: 11px;
+}
+
+

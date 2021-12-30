@@ -1,0 +1,1034 @@
+.background-color-Div{
+    padding: 40px 40px 0 40px;
+    background: #444E68;
+    padding-top: 0px;
+}
+.background-color-Div .back-color{
+background: #333b52;
+}
+.background-color-Div .back-color .flexDotts{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 47px 0px 15px;
+}
+.background-color-Div .back-color .flexDotts .dottsone{
+    display: flex;
+}
+.background-color-Div .back-color .flexDotts .dottsone .dotone{
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+
+}
+.background-color-Div .back-color .bothsideDiv{
+    display: flex;
+}
+.background-color-Div .back-color .bothsideDiv .leftsideDiv{
+    width: 42%;
+}
+
+.background-color-Div .back-color .leftsideDiv h3{
+    color: #DCDEE1;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 16px;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex{
+display: flex;
+padding: 8px 0px 0px 29px;
+height: 212px;
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex .chartone{
+
+}
+.background-color-Div .back-color .leftsideDiv .chartupflex .charttwo{
+width: 50%;
+margin: -162px 0px 0px 0px;
+}
+.chart--container {
+    height: 100%;
+    width: 100%;
+    min-height: 530px;
+  }
+  div#zingchart-react-1 {
+    height: 390px!important;
+    width: 78%!important;
+    overflow: hidden!important;
+}
+.background-color-Div .back-color .leftsideDiv  .chartdownflex{
+display: flex;
+padding: 13px 0px 0px 19px;
+}
+.background-color-Div .back-color .leftsideDiv  .chartdownflex .chartthree{
+    background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-bottom: 24px;
+    padding: 45px 45px 45px 45px
+}
+.background-color-Div .back-color .leftsideDiv  .chartdownflex .chartthree h1{
+    color: #455169;
+  
+    margin: 0;
+    font-size: 92px;
+    font-weight: bold;
+}
+.background-color-Div .back-color .leftsideDiv  .chartdownflex .chartfour{
+    padding: 7px 0px 0px 51px;
+}
+.background-color-Div .back-color .dataflexend{
+display: flex;
+justify-content: flex-end;
+flex-direction: column;
+}
+.background-color-Div .back-color .rightsideDiv{
+    width: 58%;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .dataupone{
+    text-align: end;
+    padding-right: 44px;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .dataupone h3{
+    color: #C1C4CB;
+    font-size: 19px;
+    margin: 10px 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #C1C4CB;
+    font-size: 19px;
+    margin: 10px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .mixdataLis{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 44px;
+    margin-top: -12px;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .mixdataLis ul{
+display: flex;
+/* width: 300px;
+justify-content: space-evenly; */
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .mixdataLis ul li{
+    list-style: none;
+    font-weight: 700;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .mixdataLis ul li:nth-child(1){
+    color: #627091;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding-right: 25px;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .mixdataLis ul li:nth-child(2){
+    color: #EBA026;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding-right: 25px;
+}
+.background-color-Div .back-color .rightsideDiv .dataflexend .mixdataLis ul li:nth-child(3){
+    color: #048BE2;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.background-color-Div .back-color .rightsideDiv .lineChart{
+
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv{
+    padding-top: 10px;
+}
+.background-color-Div .back-color .rightsideDiv .bigtextdiv h1{
+    color: #444E68;
+    font-size: 62px;
+    font-family: 'Old Standard TT', serif;
+    margin-left: 0px;
+    text-align: center;
+    margin-top: 88px;
+    margin-bottom: 10px;
+}
+div#zingchart-react-3 {
+    height: 366px!important;
+    width: 100%!important;
+    overflow: hidden!important;
+}
+.background-color-Div .downbackimg{
+    background: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-top: -667px;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 37px;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex .firstDot{
+display: flex;
+flex-direction: column;
+padding-right: 30px;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex .firstDot .firstdottts{
+    display: flex;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex .firstDot .firstdottts .leftdots{
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex .datadowndot{
+
+}
+.linechart3{
+    display: none;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex .datadowndot h3{
+    color: #DCDEE1;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 300;
+    padding-left: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.background-color-Div .back-color .leftsideDiv  .doubledotflex .datadowndot h3 span{
+    font-size: 11px;
+    display: flex;
+    justify-content: center;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex{
+    display: flex;
+    padding: 16px 0px 0px 43px;
+
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex img{
+width: 22px;
+padding-right: 11px;
+}
+.background-color-Div .back-color .rightsideDiv .griddataFlex span{
+    color: #F2A424;
+    font-weight: 500;
+    font-size: 20px;
+    position: relative;
+    /* width: 20%; */
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv{
+    margin-left: 65px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.background-color-Div .back-color .leftsideDiv .InsightDiv h1{
+    
+    color: #444E68;
+    font-size: 62px;
+    font-family: 'Old Standard TT', serif;
+    font-weight: 500;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex{
+    display: flex;
+    display: flex;
+    color: #6f7a84;
+    justify-content: space-around;
+    padding-top: 14px;
+}
+.background-color-Div .back-color .rightsideDiv .monthsDivflex .months{
+    color: #6f7a84;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex{
+    display: flex;
+    flex-direction: column;
+    padding: 40px 44px 0px 45px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex{
+display: flex;
+justify-content: space-between;
+padding-bottom: 24px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .arrowclickimg{
+display: flex;
+flex-direction: column;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .arrowclickimg img{
+    width: 14px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt{
+    display: flex;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .wifitxt{
+
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wififlex .imgwifitxt .wifitxt p{
+    margin-left: 10px;
+    margin-top: 2px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    color: white;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts{
+
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .wifidotts .wifidotscol{
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection {
+
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 26% 74%, 26% 84%, 14% 75%, 0% 75%);
+   background-color: #444e68;
+   max-width: 415px;
+    margin-left: 30px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardOne p{
+    color: #8D97B1;
+    font-size: 17px;
+    padding: 30px 88px 93px 56px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin: 0px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection  .cardtwoend{
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection  .cardtwoend .cardtwo{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 26% 74%, 26% 84%, 14% 75%, 0% 75%);
+    background-color: #444e68;
+    max-width: 415px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection  .cardtwoend .cardtwo p{
+    color: #8D97B1;
+    font-size: 17px;
+    padding: 30px 88px 93px 56px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin: 0px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 26% 74%, 26% 84%, 14% 75%, 0% 75%);
+   background-color: #444e68;
+   max-width: 415px;
+    margin-left: 30px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardthree p{
+    color: #8D97B1;
+    font-size: 17px;
+    padding: 30px 88px 93px 56px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin: 0px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection  .cardfourend{
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection  .cardfourend .cardfour{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 26% 74%, 26% 84%, 14% 75%, 0% 75%);
+    background-color: #444e68;
+    max-width: 415px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection  .cardfourend .cardfour p{
+    color: #8D97B1;
+    font-size: 17px;
+    padding: 30px 88px 93px 56px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin: 0px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive{
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 26% 74%, 26% 84%, 14% 75%, 0% 75%);
+   background-color: #444e68;
+   max-width: 415px;
+    margin-left: 30px;
+}
+.background-color-Div .back-color .leftsideDiv .cardsSection .cardfive p{
+    color: #8D97B1;
+    font-size: 17px;
+    padding: 30px 88px 93px 56px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    margin: 0px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex{
+display: flex;
+justify-content: space-between;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h4{
+    color: #8D9096;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex{
+display: flex;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yourcompany{
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .purpleDot{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #4EE2C0;
+    margin: 5px 3px 0px 0px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .companydataflex .yellowDot{
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #DCB337;
+    margin: 5px 4px 0px 0px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .similarcompany{
+        color: #ffffff;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+    }
+    .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex .similarcompanydataflex .blueDot{
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: #0190EC;
+        margin: 5px 4px 0px 0px;
+    }
+    .background-color-Div .back-color .rightsideDiv .onclickflex .progressdataflex h5{
+        color: #476076;
+        padding-right: 35px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    .background-color-Div .back-color .rightsideDiv .onclickflex .progrssDown{
+        padding-left: 4px;
+        background-color: #252C3E;
+        border-radius: 10px;
+        height: 16px;
+        margin-bottom: 15px;
+}
+/* .background-color-Div .back-color .rightsideDiv .onclickflex .progressUp1{
+    width: 81%;
+    background: #31D6C4;
+    border-radius: 10px;
+    height: 16px;
+} */
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp2{
+    width: 66%;
+background: #0093F1;
+border-radius: 10px;
+height: 16px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp3{
+    width: 80%;
+    background: #31D6C4;
+    border-radius: 10px;
+    height: 16px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp4{
+    width: 75%;
+background: #0093F1;
+border-radius: 10px;
+height: 16px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp5{
+    width: 79%;
+    background: #31D6C4;
+    border-radius: 10px;
+    height: 16px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp6{
+width: 70%;
+background: #0093F1;
+border-radius: 10px;
+height: 16px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp7{
+width: 87%;
+background: #F5A623!important;
+border-radius: 10px;
+height: 16px;
+}
+.background-color-Div .back-color .rightsideDiv .onclickflex .progressUp8{
+width: 98%;
+background: #0093F1;
+border-radius: 10px;
+height: 16px;
+}
+
+.background-color-Div .back-color .rightsideDiv .onclickflex .suggestionyellow h5{
+    color: #F5A623!important;
+    padding-right: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    margin-top: 10px;
+margin-bottom: 10px;
+}
+.background-color-Div .back-color .leftsideDiv .leftdownimg{
+display: flex;
+justify-content: center;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick{
+    position: absolute;
+    width: 48%;
+    margin-top: -29px;
+    background-color: rgba(37, 45, 62, 0.9);
+    /* z-index: 1; */
+    padding: 30px 30px 20px 30px;
+    margin-left: 39px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata{
+display: flex;
+flex-direction: column;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex{
+display: flex;
+justify-content: space-between;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex .wifileftside{
+display: flex;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex .wifileftside .crossbackground{
+background-color: #FF3366!important;
+border-radius: 3px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex .wifileftside .crossbackground p{
+    margin: 0px;
+    /* color: #FF3366!important; */
+    padding: 0px 8px 4px 8px;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex .wifileftside .crossbackground .wifired{
+  
+    margin-left: 30px;
+    margin-top: 8px;
+    color: #ADB0B9;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex .wifirightdots{
+
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wificrossflex .wifirightdots .wifirightdotsred{
+    background: #FF3366;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween{
+display: flex;
+justify-content: space-between;
+padding: 2px 29px 17px 0px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .crossswififlex{
+    display: flex;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .crossswififlex .crossback{
+    background-color: #FF3366!important;
+    border-radius: 3px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .crossswififlex .crossback p{
+    margin: 0px;
+    padding: 0px 4px;
+    font-size: 19px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .crossswififlex .wifireddd{
+
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .crossswififlex .wifireddd p{
+    color: #FF3366;
+    margin-left: 28px;
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    /* font-weight: 500; */
+    font-size: 22px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .wificolred{
+
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .wififlexbetween .wificolred .wificolredDots{
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+    background: #FF3366;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 45px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween .arrowdataleft{
+    display: flex;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween .arrowdataleft .updownarrowleft{
+display: flex;
+flex-direction: column;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween .arrowdataleft .updownarrowleft img{
+    width: 14px;
+    color: #329896!important;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween .arrowdataleft .Accesscontent{
+
+ }
+ .background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween .arrowdataleft .Accesscontent p{
+    color: #ADB0B9;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    margin: 0px 0px 0px 10px;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween  .accessdots{
+
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .AccessNetworkbetween  .accessdots .accessnetworkdot{
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+    background-color: #fff;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .crosscancel{
+text-align: end;
+}
+.background-color-Div .back-color .rightsideDiv .gridimgonclick .gridsheetdata .crosscancel p{
+color: #fff;
+}
+
+/* Responsive */
+.displaydiv{
+    display: none;
+}
+.greencourseback{
+    background-color: #2DBF16;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+}
+.greencourseback h6{
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+    color: #f9f9f9;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    margin: 0px;
+}
+.greencourseback img{
+width: 30px;
+}
+ .greencourseabsolute{
+/* position: absolute; */
+background-color: #2DBF16;
+width: 100%;
+}
+.greencourseabsolute .mob-dotsarrowflex{
+display: flex;
+padding: 0px 18px;
+justify-content: space-between;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots{
+    display: flex;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-dots .mob-dots-three{
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.greencourseabsolute .mob-dotsarrowflex  .mob-downarrow img{
+width: 25px;
+}
+.greencourseabsolute .mob-courseflex{
+display: flex;
+justify-content: space-between;
+padding: 0px 5px 0px 16px
+}
+.greencourseabsolute .mob-courseflex h6{
+    font-size: 20px;
+    padding-right: 21px;
+    opacity: 1;
+    text-align: left;
+    padding-top: 5px!important;
+    color: #f9f9f9;
+    margin-top: 6px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.greencourseabsolute .mob-courseflex h5{
+    color: #fff;
+    margin-bottom: 0px;
+}
+.greencourseabsolute .mob-courseflex h5 sup:first-child{
+    top: -31px;
+    font-size: 38px;
+    position: relative;
+    font-weight: lighter;
+}
+.greencourseabsolute .mob-courseflex h5 sup:last-child{
+    top: -30px;
+    right: 14px;
+    font-size: 33px;
+    position: relative;
+    font-weight: lighter;
+}
+.greencourseabsolute .mob-courseflex span{
+    font-size: 76px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.greencourseabsolute .mob-courseflex .mob-extra{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.greencourseabsolute .opacitydataDiv h5{
+    color: white;
+    opacity: 0.5;
+    font-weight: lighter;
+    margin: 0px;
+    padding-left: 12px;
+}
+.greencourseabsolute .opacitydataDiv h5 span{
+    font-size: 76px;
+    font-family: 'Roboto', sans-serif;
+}
+.greencourseabsolute .opacitydataDiv .opacity-extra{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+
+}
+.greencourseabsolute .opacitydataDiv h5 sup{
+    top: -30px;
+    right: 14px;
+    font-size: 33px;
+    position: relative;
+}
+.greencourseabsolute .mob-companyarrowflex{
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 12px;
+}
+.greencourseabsolute .mob-companyarrowflex p{
+    font-size: 12px;
+    padding-top: 10px;
+    padding-left: 9px;
+    color: #fff;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}
+.greencourseabsolute .mob-numberscol{
+    display: flex;
+    flex-direction: column;
+}
+.greencourseabsolute .mob-numberscol .mob-periodbegin{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+.greencourseabsolute .mob-numberscol .mob-periodbegin p:first-child{
+    font-size: 12px;
+    color: #fff;
+    margin-top: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.greencourseabsolute .mob-numberscol .mob-periodbegin p:last-child{
+    font-size: 19px;
+    color: #fff;
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree{
+
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree p{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree .topperformercol{
+display: flex;
+flex-direction: column;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree .topperformercol .topperformerflex{
+display: flex;
+justify-content: space-between;
+padding: 0px 0px 7px 20px;
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree .topperformercol .topperformerflex img{
+
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree .topperformercol .topperformerflex p{
+    margin: 0px;
+    padding: 6px 0px 0px 0px;
+
+}
+.greencourseabsolute .mob-numberscol .mob-lastthree .topperformercol .topperformerflex .justdot{
+    background: transparent;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup{
+    position: absolute;
+    background-color: rgba(37, 45, 62, 0.9);
+    width: 88%;
+    z-index: 2;
+    padding: 7px;
+    margin-top: 39px;
+    display: flex;
+}
+.greencourseabsolute .mob-dotsarrowflex .mob-popup img{
+    width: 16px;
+    padding-top: 11px;
+}
+ul.control-dots {
+   display: none!important;
+}
+.slider-wrapper.axis-horizontal {
+    overflow: hidden;
+    margin: 0px!important;
+    width: 100%!important;
+    transition: height .15s ease-in;
+    padding-top: 50px!important;
+}
+p.carousel-status {
+    display: none!important;
+}
+button.control-arrow.control-next {
+    top: 10px!important;
+    color: #fff;
+    font-size: 5px;
+    bottom: 0;
+    /* margin-top: 0; */
+    padding: 5px;
+    width: 27px!important;
+    height: 50px!important;
+    right: 11px!important;
+    
+}
+ul.thumbs.animated {
+    display: none!important;
+}
+.carouselData{
+    margin: -21px 0px 0px 14px;
+}
+.carouselData .carouselDotsflex{
+    display: flex;
+}
+.carouselData .carouselDotsflex .carouseldots{
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.carouselData .carouselpara p{
+    color: #fff;
+    text-align: start;
+    margin-top: 6px;
+    font-size: 20px;
+}
+div#zingchart-react-9 {
+    height: 480px;
+    width: 78%!important;
+    overflow: hidden;
+}
+.carousel .control-prev.control-arrow {
+    top: 14px!important;
+    height: 40px!important;
+    right: 36px!important;
+    left: initial!important;
+}
+.carousel.carousel-slider {
+    position: relative;
+    margin: 0;
+    overflow: hidden;
+    height: 330px!important;
+}
+.justifyCenter{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.carouselnone{
+    display: none;
+}
+.linechartnone{
+display: none;
+}
+.linechartnone .dataflexend2{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.linechartnone .dataflexend2 .dataupone2{
+    padding-right: 44px;
+}
+.linechartnone .dataflexend2 .dataupone2 h3{
+    color: #C1C4CB;
+    font-size: 19px;
+    margin: 10px 0px;
+    font-family: 'Roboto', sans-serif;
+    color: #C1C4CB;
+    font-size: 19px;
+    margin: 10px 0px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.linechartnone .dataflexend2 .mixdataLis2{
+    display: flex;
+    padding-right: 44px;
+    margin-top: -12px;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul{
+    display: flex;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li{
+    list-style: none;
+    font-weight: 700;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(1){
+    color: #627091;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding-right: 25px;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(2){
+    color: #EBA026;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    padding-right: 25px;
+}
+.linechartnone .dataflexend2 .mixdataLis2 ul li:nth-child(3){
+    color: #048BE2;
+    font-size: 11px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.monthsDivflex2{
+    display: flex;
+    color: #6f7a84;
+    justify-content: space-around;
+    padding-top: 14px;
+}
+.monthsDivflex2 .months2{
+    color: #6f7a84;
+}
+.linechartnone .linedotsflex{
+    display: flex;
+    justify-content: space-between;
+}
+.linechartnone .linedotsflex .dotslineflex .linedots3{
+    background: #fff;
+    padding: 3px 3px;
+    border-radius: 30px;
+    margin: 1px;
+}
+.linechartnone .linebackimg{
+    background-image: url(../../assets/images/grp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.linechartnone .linedotsflex .linedivarrow img:first-child{
+width: 20px;
+padding-left: 50px;
+display: none;
+}
+.linechartnone .linedotsflex .dotslineflex{
+    display: flex;
+}
+.background-color-Div .back-color .dataflexend {
+    display: none!important;
+}
+.bitextarrow{
+    display: none;
+}
+.chartcenter{
+    width: 100%;
+    display: none;
+    justify-content: center;
+    flex-direction: column;
+}
+.chartcenter .chartupflex2{  
+display: flex;
+padding: 8px 0px 0px 29px;
+height: 212px;
+}
+.chartcenter .chartupflex2 .chartone2{
+
+}
+.chartcenter .chartupflex2  .charttwo2{
+    width: 50%;
+    margin: -162px 0px 0px 0px;
+}
+.chartcenter .chartdownflex2{
+    display: flex;
+    padding: 13px 0px 0px 19px;
+}
+.chartcenter .chartdownflex2 .chartthree3{
+    background: linear-gradient(to bottom, #252c3e 0%,#4b5771 100%);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 15px;
+    margin-bottom: 24px;
+    padding: 45px 45px 45px 45px
+}
+.chartcenter .chartdownflex2 .chartthree3 h1{
+    color: #455169;
+    margin: 0;
+    font-size: 92px;
+    font-weight: bold;
+}
+.chartcenter .chartdownflex2{
+    padding: 7px 0px 0px 51px;
+}
+/* .linesecondarrow{
+    display: flex;
+    justify-content: flex-end;
+} */
+/* ///////////// */
